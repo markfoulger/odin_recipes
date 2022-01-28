@@ -1,2 +1,4 @@
 # odin_recipes
-The Odin Project - Recipes project
+## Recipes
+
+Based off [the odin project challenge](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes)
